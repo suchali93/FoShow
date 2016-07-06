@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fotag Mobile</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_load">Load</string>
+    <string name="action_search">Search</string>
+    <string name="def_images">Image</string>
+    <string name="action_showall">Show All</string>
+    <string name="action_rate1">1 Star</string>
+    <string name="action_rate2">2 Star</string>
+    <string name="action_rate3">3 Stars</string>
+    <string name="action_rate4">4 Stars</string>
+    <string name="action_rate5">5 Stars</string>
+</resources>
